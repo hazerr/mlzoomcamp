@@ -1,0 +1,13 @@
+Flask
+scikit-learn
+scipy
+pandas
+numpy
+seaborn
+matplotlib
+warnings
+catboost
+xgboost
+json
+pickle
+gunicorn
